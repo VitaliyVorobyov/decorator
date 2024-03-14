@@ -1,0 +1,25 @@
+2024-03-14 13:54:50.639451 - Called function: hello_world
+Arguments: ()
+Keyword Arguments: {}
+Return Value: Hello World
+
+2024-03-14 13:54:50.639547 - Called function: summator
+Arguments: (2, 2)
+Keyword Arguments: {}
+Return Value: 4
+
+2024-03-14 13:54:50.639602 - Called function: div
+Arguments: (6, 2)
+Keyword Arguments: {}
+Return Value: 3.0
+
+2024-03-14 13:54:50.639652 - Called function: summator
+Arguments: (4.3,)
+Keyword Arguments: {'b': 2.2}
+Return Value: 6.5
+
+2024-03-14 13:54:50.639685 - Called function: summator
+Arguments: ()
+Keyword Arguments: {'a': 0, 'b': 0}
+Return Value: 0
+
